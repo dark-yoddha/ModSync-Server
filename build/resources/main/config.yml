@@ -1,0 +1,16 @@
+# ModSync Configuration
+
+# List of banned mod IDs
+banned-mods:
+  - "xray"
+  - "killaura-mod"
+
+# List of banned resource pack IDs
+banned-resourcepacks:
+  - "xray-pack"
+
+# Kick messages
+messages:
+  not-installed: "§cYou must have ModSync installed to join this server!"
+  banned-mod: "§cYou have a banned mod installed: %s"
+  banned-pack: "§cYou have a banned resource pack installed: %s"

@@ -1,0 +1,10 @@
+name: ModSync
+version: '1.0'
+main: com.ModSync.Main
+api-version: '1.21'
+authors: [ Dark_Yoddha ]
+commands:
+  modsync:
+    description: ModSync command
+    usage: /modsync <modlist|packlist|reload> [player]
+    permission: modsync.admin
