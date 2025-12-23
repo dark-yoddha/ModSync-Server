@@ -1,0 +1,19 @@
+# ModSync Configuration
+
+# Kick delay (in seconds)
+# Time to wait for the client to send mod data before kicking
+kick-delay: 3
+
+banned-mods:
+  - "xray"
+  - "killaura-mod"
+
+# List of banned resource pack IDs
+banned-resourcepacks:
+  - "xray-pack"
+
+# Kick messages
+messages:
+  not-installed: "§cYou must have ModSync installed to join this server!\\n§eDownload it here: https://modrinth.com/plugin/mod-sync"
+  banned-mod: "§cYou have a banned mod installed: %s"
+  banned-pack: "§cYou have a banned resource pack installed: %s"
