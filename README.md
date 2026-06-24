@@ -1,4 +1,5 @@
 **ModSync**
+
 Secure Client-Server Synchronisation & Compliance Enforcement
 ModSync is a lightweight, two-part system designed for server administrators who need absolute transparency over what their players are running. By bridging the gap between the server (Spigot/Paper) and the client (Fabric), ModSync allows you to enforce mod and resource pack requirements instantly, maintain historical logs, and verify the integrity of every connection.
 
